@@ -22,6 +22,10 @@ public class Shop {
 		
 	}
 	
+	public void addItemToShop() {
+		
+	}
+	
 	
 
 }
